@@ -1,0 +1,14 @@
+git version control system is designed to handle small to large projects simulatneously
+git hub is the application 
+file types
+.git file type
+git init (initialize)
+git add . 
+git commit -m "add content to index.html file"
+git push --set -upstream origin master
+git remote add origin git@github.com:Mgridge-labs/lesson3.git
+git - branch 
+git checkout -b branch name 
+git branch 
+git checkout master 
+git push -u
